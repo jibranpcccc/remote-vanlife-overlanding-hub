@@ -4,10 +4,17 @@
     <title>Vanlife &amp; Off-Grid Overlanders Hub</title>
     <link>https://remote-vanlife-overlanding-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 11:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:30:58 GMT</lastBuildDate>
     <atom:link href="https://remote-vanlife-overlanding-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://remote-vanlife-overlanding-hub.vercel.app/#remote-vanlife-overlanding-hub-forum-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:30:58 GMT</pubDate>
+      <description>Newly verified community added to Vanlife &amp; Off-Grid Overlanders Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>Vanlife &amp; Off-Grid Overlanders Hub Initial Release</title>
       <link>https://remote-vanlife-overlanding-hub.vercel.app/</link>
       <pubDate>Tue, 08 Sep 2026 11:10:26 GMT</pubDate>
