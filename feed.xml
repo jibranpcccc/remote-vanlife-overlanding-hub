@@ -4,10 +4,17 @@
     <title>Vanlife &amp; Off-Grid Overlanders Hub</title>
     <link>https://remote-vanlife-overlanding-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:02:19 GMT</lastBuildDate>
     <atom:link href="https://remote-vanlife-overlanding-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                <item>
+                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://remote-vanlife-overlanding-hub.vercel.app/#remote-vanlife-overlanding-hub-telegram-20261013-1-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:02:19 GMT</pubDate>
+      <description>Newly verified community added to Vanlife &amp; Off-Grid Overlanders Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://remote-vanlife-overlanding-hub.vercel.app/#remote-vanlife-overlanding-hub-telegram-20261011-1-2026-10-11</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://remote-vanlife-overlanding-hub.vercel.app/#remote-vanlife-overlanding-hub-reddit-20260914-1-2026-09-14</guid>
       <pubDate>Mon, 14 Sep 2026 10:46:15 GMT</pubDate>
       <description>Newly verified community added to Vanlife &amp; Off-Grid Overlanders Hub: Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/</link>
-      <guid isPermaLink="false">https://remote-vanlife-overlanding-hub.vercel.app/#remote-vanlife-overlanding-hub-reddit-20260914-1-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 06:07:45 GMT</pubDate>
-      <description>Newly verified community added to Vanlife &amp; Off-Grid Overlanders Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
     </item>
   </channel>
 </rss>
